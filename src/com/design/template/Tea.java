@@ -4,13 +4,13 @@ public class Tea extends Template {
 
 	@Override
 	public void brew() {
-		System.err.println("²èÒ¶²»ÓÃ½Á°è");
+		System.err.println("æ²èŒ¶");
 		
 	}
 
 	@Override
 	public void addCondis() {
-		System.err.println("²èÒ¶²»ĞèÒªµ÷ÁÏ");
+		System.err.println("èŒ¶ä¸éœ€è¦æ·»åŠ ä¸œè¥¿");
 		
 	}
 

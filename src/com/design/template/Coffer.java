@@ -4,12 +4,12 @@ public class Coffer extends Template {
 
 	@Override
 	public void brew() {
-		System.err.println("½Á°è¿§·È");
+		System.err.println("æ…æ‹Œå’–å•¡");
 	}
 
 	@Override
 	public void addCondis() {
-		System.err.println("¿§·È¼ÓÈëÌÇ");
+		System.err.println("å’–å•¡åŠ å…¥ç³–");
 	}
 
 	@Override

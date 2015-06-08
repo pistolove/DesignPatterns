@@ -17,11 +17,11 @@ public abstract class Template {
 	}
 
 	private void pourIncup() {
-		System.err.println("倒入杯中");
+		System.err.println("鍊掑叆鏉腑");
 	}
 
 	private void boiwater() {
-		System.err.println("烧水");
+		System.err.println("鐑ф按");
 	}
 
 	public abstract void brew();
