@@ -4,8 +4,7 @@ public class ProductA2 implements IproductA {
 
 	@Override
 	public void method() {
-		System.err.println("A2生产产品A2");
-
+		System.err.println("A2鐢熶骇A2");
 	}
 
 }

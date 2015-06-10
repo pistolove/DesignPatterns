@@ -1,6 +1,6 @@
 package com.design.abstractFactory;
 
-//¾ßÌåµÄ¹¤³§Éú²ú²úÆ·
+//å…·ä½“çš„å·¥å‚ç”Ÿäº§äº§å“
 public class ConcreateFactory1 extends Factory1 {
 
 	@Override

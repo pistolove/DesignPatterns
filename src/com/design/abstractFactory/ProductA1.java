@@ -1,10 +1,11 @@
 package com.design.abstractFactory;
-//ÊµÏÖÁË²úÆ·±ê×¼ÊµÏÖµÄÒ»ÏµÁĞ¾ßÌå²úÆ·
-public class ProductA1 implements	IproductA{
+
+//å…·ä½“çš„äº§å“
+public class ProductA1 implements IproductA {
 
 	@Override
 	public void method() {
-		System.err.println("A1²úÆ·productA1");
+		System.err.println("A1ç”Ÿäº§A1");
 	}
 
 }

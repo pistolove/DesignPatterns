@@ -1,6 +1,6 @@
 package com.design.abstractFactory;
 
-//每一种牌子的产品负责生产工厂，即不同的厂商负责自己牌子的生产
+//姣忎竴绉嶇墝瀛愮殑浜у搧璐熻矗鐢熶骇宸ュ巶锛屽嵆涓嶅悓鐨勫巶鍟嗚礋璐ｈ嚜宸辩墝瀛愮殑鐢熶骇
 public abstract class Factory1 {
 	abstract public IproductA getproductA1();
 	abstract public IproductB getProductB1();
