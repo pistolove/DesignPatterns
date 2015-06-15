@@ -1,6 +1,6 @@
 package com.design.builder;
 
-public class Test {
+public class Client {
 
 	public static void main(String[] args) {
 		IBulider bulider = new ConcreateBuilder();
