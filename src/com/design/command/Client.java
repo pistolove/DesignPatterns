@@ -7,7 +7,7 @@ public class Client {
 		
 		//创建接收者对象 即播放器
 		AudioPlayer player = new AudioPlayer();
-		
+		 
 		
 		//创建命令对象
 		Command playCommand = new PlayCommand(player);
